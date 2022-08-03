@@ -1,3 +1,4 @@
+#자동아닌 별도로 작동하는 프로세스
 import dbconfun as dbfun
 import datetime as time
 
