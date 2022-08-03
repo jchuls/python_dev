@@ -11,6 +11,8 @@ import sys
 import re
 
 
+
+
 #시간기록
 sys.stdout = open(r'C:\Users\youn\item\item_output_' + dt.last_mm + '.csv','w')
 
